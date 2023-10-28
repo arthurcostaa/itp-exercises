@@ -1,23 +1,3 @@
-// #include <stdio.h>
-// #include <string.h>
-
-// int main()
-// {
-//     char texto[] = "André - Atacante - mil gols - campeão mundial - melhor que Pelé";
-//     char *pedaco;
-
-//     pedaco = strtok(texto, "-");
-
-//     while (pedaco != NULL)
-//     {
-//         printf("%s\n", pedaco);
-
-//         pedaco = strtok(NULL, "-");
-//     }
-
-//     return 0;
-// }
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
